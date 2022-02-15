@@ -5,18 +5,18 @@ This is Version 2.0 of the Floor Cleaning Robot, with some improvements over the
 
 In short here are the changes I made compared to the previous version:
 
--Added Autonomous Mode
+- Added Autonomous Mode
 
--Fixed mop instead of rotating ones
+- Fixed mop instead of rotating ones
 
--Removed roller and servo motor
+- Removed roller and servo motor
 
--Added LCD Display
+- Added LCD Display
 
--Used Lithium-ion Batteries instead of lead acid
+- Used Lithium-ion Batteries instead of lead acid
 
--Used Arduino Nano (cheaper and smaller in size) instead of Uno
+- Used Arduino Nano (cheaper and smaller in size) instead of Uno
 
--Added Water Flow Control
+- Added Water Flow Control
 
 Step by step instructions with images on how to make this project: https://www.instructables.com/The-Ultimate-Floor-Cleaning-Robot-v20/
